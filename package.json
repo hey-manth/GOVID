@@ -39,6 +39,9 @@
     "babel-eslint": "^10.0.3",
     "babel-preset-expo": "^8.3.0"
   },
+  "browser": {
+    "http": false
+  },
   "keywords": [
     "now react native",
     "now design system",
